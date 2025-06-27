@@ -1,0 +1,13 @@
+body{
+            background-color:white;
+        }
+        
+        input{
+            border: 3px solid black;
+            border-radius: 6px;
+            background-color: transparent;
+        }
+        p{
+            font-family:'Segoe UI';
+            color:darkcyan
+        }
